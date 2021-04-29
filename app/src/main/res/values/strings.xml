@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sastra Perancis Unpad</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Sastra Perancis UNPAD</string>
+    <string name="nav_header_subtitle">Tel/fax: +62 22 779 0212</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_staff">Staff</string>
+    <string name="menu_kurikulum">Kurikulum</string>
+    <string name="menu_lulusan">Profil Lulusan</string>
+    <string name="menu_fasilitas">Fasilitas</string>
+</resources>
