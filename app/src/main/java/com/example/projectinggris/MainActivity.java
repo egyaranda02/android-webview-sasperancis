@@ -1,4 +1,4 @@
-package com.example.projectinggris;
+package com.example.projectPerancis;
 
 import android.os.Bundle;
 import android.view.KeyEvent;
@@ -15,6 +15,7 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
+import com.example.projectPerancis.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.navigation.NavigationView;
 import com.google.android.material.snackbar.Snackbar;
